@@ -16,7 +16,8 @@ apps Data - The primary dataset used for this analysis is the 'appleappstore.csv
 
 ## Data cleaning and Analysis
 
-During this project, performed the following task.
+During this project, performed the following task:
+
 - Data loading and inspection.
 - Handling missing values.
 - Data cleaning and formatting.
@@ -29,6 +30,8 @@ During this project, performed the following task.
 3. How can I maximise user rating?
 
 ## Insights
+
+Based on the findings, these are the recommendations:
 
 1. Paid apps have better ratings.
 2. Apps supporting between 10 & 30 languages have better ratings.
