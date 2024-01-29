@@ -38,3 +38,6 @@ During this project, performed the following task.
 6. Games and entertainment have high competition.
 
 
+
+### You can find Sql codes in 'sqllite'. 
+
