@@ -15,7 +15,7 @@ This data analysis project aims to provide insight into the app performance and 
 
 ## Data Source
 
-apps Data - The primary dataset used for this analysis is the 'appleappstore.csv' file, containg detailed informations about various apps on apple app store.
+Apps Data - The primary dataset used for this analysis is the 'appleappstore.csv' file, containg detailed informations about various apps on apple app store.
 
 ## Tools
 
