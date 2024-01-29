@@ -1,5 +1,14 @@
 # Apple Appstore_Project
 
+## Table of content
+ - [Project Overview](#project-overview)
+ - [Data Source](#data-source)
+ - [Tools](#tools)
+ - [Data cleaning and Analysis](#data-cleaning-and-analysis)
+ - [Findings](#findings-will-be-on-these-questions)
+ - [Insights](#insights)
+   
+
 ## Project Overview
 
 This data analysis project aims to provide insight into the app performance and what categories a client should make an app on. By analysing various categories, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of market performance.
